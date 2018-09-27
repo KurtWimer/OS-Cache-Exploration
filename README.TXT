@@ -1,6 +1,6 @@
-This is my final project for Operating Systems spring 2018
-. The program models total drive seek distance when using FIFO head scheduling. 
-I compare multiple 'on disk' Cache locations to evaluate what offers best performance.
+This is my final project for Operating Systems spring 2018.
+The program models total drive seek distance when using FIFO head scheduling. 
+I compare multiple 'on disk' Cache locations to evaluate what offers best performance. The caches are stored in an "organ" fashion such that if you graph block frequency it will have the highest frequency in the middle decreasing as you go furthur out.
 
 
 /scripts
