@@ -5,7 +5,6 @@ I compare multiple 'on disk' Cache locations to evaluate what offers best perfor
 
 /scripts
 	contains a variety of scripts for extracting and finding key values from a trace
-
 	also contains test.sh which will compile and calculate results
 	IMPORTANT test.sh must be edited to include the complete path to the project folder
 
@@ -18,8 +17,7 @@ I compare multiple 'on disk' Cache locations to evaluate what offers best perfor
 
 
 /data
-	dumping ground for pre-processed data
-, it also contains a written report
+	dumping ground for pre-processed data, it also contains a written report
 
 /results
 	contains results after test.sh is run as well as the report
